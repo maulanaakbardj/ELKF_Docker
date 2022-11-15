@@ -1,5 +1,29 @@
 # Elasticsearch
+Elasticsearch is the distributed, RESTful search and analytics engine at the
+heart of the https://www.elastic.co/products[Elastic Stack]. You can use
+Elasticsearch to store, search, and manage data for:
 
+* Logs
+* Metrics
+* A search backend
+* Application monitoring
+* Endpoint security
+
+\... and more!
+
+To learn more about Elasticsearch's features and capabilities, see our
+https://www.elastic.co/products/elasticsearch[product page].
+
+[[get-started]]
+== Get started
+
+The simplest way to set up Elasticsearch is to create a managed deployment with
+https://www.elastic.co/cloud/as-a-service[Elasticsearch Service on Elastic
+Cloud].
+
+If you prefer to install and manage Elasticsearch yourself, you can download
+the latest version from 
+https://www.elastic.co/downloads/elasticsearch[elastic.co/downloads/elasticsearch].
 
 # ELK Stack
 "ELK" is the acronym for three open source projects: Elasticsearch, Logstash, and Kibana. Elasticsearch is a search and analytics engine. Logstash is a server‑side data processing pipeline that ingests data from multiple sources simultaneously, transforms it, and then sends it to a "stash" like Elasticsearch. Kibana lets users visualize data with charts and graphs in Elasticsearch.
