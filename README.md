@@ -21,13 +21,16 @@ To learn more about Elasticsearch's features and capabilities, see [product page
 <img src='https://miro.medium.com/max/700/1*cD2gHPbzrrJ4gVqV7iaLvQ.png' >   
 
 ## Beats
-<img src='https://www.elastic.co/guide/en/beats/libbeat/current/images/beats-platform.png' width="50%">      
+<img src='https://www.elastic.co/guide/en/beats/libbeat/current/images/beats-platform.png' width="50%">    
 
 ## Logstash
 <img src='https://www.elastic.co/guide/en/logstash/current/static/images/basic_logstash_pipeline.png' width="50%" >  
 
 ## Kibana  
 <img src='https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt47b86adba2f459aa/5fa31e03bfc5dd7188659491/screenshot-kibana-dashboard-webtraffic2-710-547x308.jpg' width="50%" >  
+
+## Example Metric from Metricbeat
+![Infrastructure-Metrics-LAPTOP-T1M8FREH-Kibana](https://github.com/maulanaakbardj/ELKF_Docker/assets/67249292/e263af72-03d5-486f-8f1e-bc0c13e8812b)
 
 
 
