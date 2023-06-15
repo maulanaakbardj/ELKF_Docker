@@ -8,6 +8,10 @@ To get started with Metricbeat, you need to set up Elasticsearch on
 your localhost first. After that, start Metricbeat with:
 
      ./metricbeat -c metricbeat.yml -e
+     
+or :
+     
+     .\metricbeat.exe -e -c .\metricbeat.yml
 
 This will start Metricbeat and send the data to your Elasticsearch
 instance. To load the dashboards for Metricbeat into Kibana, run:
